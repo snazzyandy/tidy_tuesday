@@ -1,2 +1,2 @@
 # tidy_tuesday
-Code dumb for my poor attempts at datavis
+Dumb code  for my poor attempts at datavis
