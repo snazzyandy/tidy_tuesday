@@ -17,7 +17,11 @@ If you find errors or have information about missing incidents, please email ssd
 
 Sheet Details:
 The information is structured as a relational database with a unique incident ID number that links the "incident", "shooter", "victim", and "weapon" tabs.
+
 Incident Tab: Incident ID number and the details of what, where, and when the shooting happened.
+
 Shooter Tab: Incident ID number and details about the shooter. Multiple rows have the same incident ID number if there were multiple shooters.
+
 Victim Tab: Incident ID number and details about the victim. Multiple rows have the same incident ID number if there were multiple victims.
+
 Weapon Tab: Incident ID number and details about the weapon used (including weapons that were possessed by the shooter during the incident but were not fired). Multiple rows have the same incident ID number if there were multiple weapons used.
