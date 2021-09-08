@@ -85,12 +85,18 @@ gg_perps <- ggplot(multiple_perps, aes(x=n)) +
 gg_perps
 
 ```
+
+####Multiple perpetrators
+
+When I consider these events columbine comes to mind. were more perpetrators more common in the past?
+
+
 ```{r smaller sample, echo=TRUE, warning=FALSE, message = FALSE}
 #Load date package
 library(lubridate)
 
-#When I consider these events columbine comes to mind. were more perpetrators more common in the past?
-greater_1_perp <- multiple_perps %>%
+
+Multiple_Perp_DF <- multiple_perps %>%
  # filter(n > 1) %>%
   left_join(incident_clean, by="incidentid")%>%
   mutate(year = year(Date)) %>%
@@ -100,7 +106,7 @@ greater_1_perp <- multiple_perps %>%
   count()
 
 
-incident_year <- ggplot(greater_1_perp, aes(x= year, y=n, colour = perpetrator_count))+
+incident_year <- ggplot(Multiple_Perp_DF, aes(x= year, y=n, colour = perpetrator_count))+
                  geom_jitter()+
                  ggtitle("No clear indicator of yearly increases in multiple perps", subtitle = "Note the recent increase in individual actors from 2010") +
                  facet_wrap(~perpetrator_count)+
@@ -111,4 +117,31 @@ incident_year
 
 
 ```
+####Lets clean up the data
 
+Given that the majority of the events were single shooters we might want to split out analysis by Single vs multiple perpetrator events. Surely this is a different social dynamic? likely the psych field has some insight here
+
+```{r}
+#Pull a list of all the single perp events
+single_perp_df <- multiple_perps %>% 
+  filter(n == 1)
+
+#Single Perps master df - leave victims out of this for the moment
+single_perps_raw <- single_perp_df %>%
+  left_join(incident_clean, by="incidentid") %>%
+  left_join(shooter, by="incidentid")%>%
+  left_join(weapon, by="incidentid")
+
+```
+
+
+```{r}
+#Lets look at age
+age_dist <- single_perps_raw #%>% 
+ # group_by(age) %>% count() %>% 
+ # mutate(age == case_when(
+  #  as.numeric(age) == FALSE  ~ 9999,
+  #  as.numeric(age) == TRUE ~ is.numeric(age)
+ # ))
+
+```
