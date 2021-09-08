@@ -6,7 +6,7 @@ output: html_document
 ## Description of data: What are we looking at?
 Today a friend of mine sent me an interesting website. 
 
-[Link site]
+[Dashboard of School Shooting incidents]()
 https://www.chds.us/ssdb/data-map/
 
 
@@ -18,3 +18,8 @@ victim  <- readr::read_csv('https://raw.githubusercontent.com/snazzyandy/tidy_tu
 weapon  <- readr::read_csv('https://raw.githubusercontent.com/snazzyandy/tidy_tuesday/main/PCA/Weapon%20Table.csv')
 
 ```
+
+dgf
+sdfg
+dsfg
+sdf
