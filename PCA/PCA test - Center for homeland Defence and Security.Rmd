@@ -1,0 +1,20 @@
+---
+title: "PCA test Center for Homeland Defense and Security"
+output: html_document
+---
+
+## Description of data: What are we looking at?
+Today a friend of mine sent me an interesting website. 
+
+[Link site]
+https://www.chds.us/ssdb/data-map/
+
+
+```{r setup, include=TRUE}
+#Read the raw data i've pulled from the site 
+shooter <- readr::read_csv('https://raw.githubusercontent.com/snazzyandy/tidy_tuesday/main/PCA/Shooter%20Table.csv')
+incident <- readr::read_csv('https://raw.githubusercontent.com/snazzyandy/tidy_tuesday/main/PCA/Incident%20Table.csv')
+victim  <- readr::read_csv('https://raw.githubusercontent.com/snazzyandy/tidy_tuesday/main/PCA/Victim%20Table.csv')
+weapon  <- readr::read_csv('https://raw.githubusercontent.com/snazzyandy/tidy_tuesday/main/PCA/Weapon%20Table.csv')
+
+```
