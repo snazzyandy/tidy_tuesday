@@ -1,4 +1,4 @@
-Testing data from https://www.chds.us/ssdb/data-map/ to look at what factors impact outcomes.
+Testing data from https://www.chds.us/ssdb/data-map/ to look at what factors impact school shooting outcomes.
 
 Bit morbid...but might lead to some interesting convos
 
