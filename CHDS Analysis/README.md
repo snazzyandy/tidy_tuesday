@@ -31,5 +31,6 @@ The information is structured as a relational database with a unique incident ID
 ## Structure of this Github Directory
 
 **Data**: Contains raw CSV's Used in this analysis
+
 **Figures**: Contains images used to generate the by RMD script to generate the HTML file
 
