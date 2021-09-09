@@ -30,6 +30,7 @@ The information is structured as a relational database with a unique incident ID
 
 ## Structure of this Github Directory
 **CHDS Analysis.rmd** The R-Markdown script used to generate this analysis
+
 **CHDS-Analysis.html** HMTL output of the analysis in narative format (Would like to make this a bookdown or web output in the future)
 
 **Data**: Contains raw CSV's Used in this analysis
