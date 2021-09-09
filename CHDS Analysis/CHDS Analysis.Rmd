@@ -1,0 +1,147 @@
+---
+title: "CHDS Analysis"
+author: Andrew Turner (https://github.com/snazzyandy)
+output: html_document
+---
+```{r setup, echo=FALSE, warning=FALSE, message = FALSE}
+devtools::install_github("hadley/emo")
+
+```
+
+
+## Description of data: What are we looking at?
+Today a friend of mine sent me an interesting website showing the distribution of School Shootings that have occurred at K-12 Facilities between 1970 and 2021. 
+
+Its a lot of data and it paints a pretty rough picture of the United States. 
+
+![Source: Center for Homeland Defense and Security (https://www.chds.us/ssdb/data-map/)](https://raw.githubusercontent.com/snazzyandy/tidy_tuesday/main/PCA/K-12%20Shooting%20Database%20Screenshot.png)
+
+So we got discussing that given the mountain of events what tends to be the most impactful factor in the size of casualties and the interplay between the individual factors.
+
+My initial hypothesis is that age and access to weaponry will be the most impactful factor in predicting casualties. The implication of which being that gun control is an important factor in reducing casualties. I preface this analysis by saying that this is a charged and multifaceted issue so I by no means want to claim causality - lets leave that one to the academics and the incredibly impartial lobbying groups  `r emo::ji("wink")`
+
+
+```{r dataload, include=FALSE}
+#Read the raw data i've pulled from the site 
+shooter <- readr::read_csv('https://raw.githubusercontent.com/snazzyandy/tidy_tuesday/main/PCA/Shooter%20Table.csv')
+incident <- readr::read_csv('https://raw.githubusercontent.com/snazzyandy/tidy_tuesday/main/PCA/Incident%20Table.csv')
+victim  <- readr::read_csv('https://raw.githubusercontent.com/snazzyandy/tidy_tuesday/main/PCA/Victim%20Table.csv')
+weapon  <- readr::read_csv('https://raw.githubusercontent.com/snazzyandy/tidy_tuesday/main/PCA/Weapon%20Table.csv')
+
+```
+
+## Lets look at the data
+
+The schema for this data is based off 4 tables:
+
+1. shooter: Incident ID number and details about the shooter. Multiple rows have the same incident ID number if there were multiple shooters.
+2. incident: Incident ID number and the details of what, where, and when the shooting happened.
+3. victim: Incident ID number and details about the victim. Multiple rows have the same incident ID number if there were multiple victims.
+4. weapon: Incident ID number and details about the weapon used (including weapons that were possessed by the shooter during the incident but were not fired). Multiple rows have the same incident ID number if there were multiple weapons used.
+
+```{r data structure}
+head(shooter)
+
+head(incident)
+
+head(victim)
+
+head(weapon)
+```
+
+```{r wrangling, warning=FALSE, message = FALSE}
+#Load up 'old faithful!
+library(tidyverse)
+
+#Clean up the base df for incident for the join
+incident_clean <- incident %>%
+  rename(incidentid = Incident_ID)
+  
+#Joining based on victim as its the largest dataframe  - Also 2753*50 isnt a huge df (Not great - but also not huge)
+master_raw <- victim %>%
+  left_join(incident_clean, by="incidentid") %>%
+  left_join(shooter, by="incidentid")%>%
+  left_join(weapon, by="incidentid")
+
+```
+
+### First notes
+Turns out we can't just join them all for some base analysis because there are multiple shooters in some events.
+
+That's kinda a bummer...
+But for context lets see how many of those are here.
+
+```{r multiple perps, echo=TRUE, warning=FALSE, message = FALSE}
+multiple_perps <- shooter %>%
+  group_by(incidentid) %>%
+  count() 
+
+gg_perps <- ggplot(multiple_perps, aes(x=n)) +
+  geom_histogram()+
+  ggtitle("The majority of K-12 shootings are perpetrated by single shooters", subtitle = "Shootings in USA 1970-2021")+
+  xlab("Number of shooters involved in an incident")+
+  ylab("Count of incidents")
+
+gg_perps
+
+```
+
+####Multiple perpetrators
+
+When I consider these events columbine comes to mind. were more perpetrators more common in the past?
+
+
+```{r smaller sample, echo=TRUE, warning=FALSE, message = FALSE}
+#Load date package
+library(lubridate)
+
+
+Multiple_Perp_DF <- multiple_perps %>%
+ # filter(n > 1) %>%
+  left_join(incident_clean, by="incidentid")%>%
+  mutate(year = year(Date)) %>%
+  rename(perpetrator_count =n) %>%
+  mutate(perpetrator_count = factor(perpetrator_count, levels= c(1, 2,3,4,5,6,7,8)))%>%
+  group_by(year, perpetrator_count) %>%
+  count()
+
+
+incident_year <- ggplot(Multiple_Perp_DF, aes(x= year, y=n, colour = perpetrator_count))+
+                 geom_jitter()+
+                 ggtitle("No clear indicator of yearly increases in multiple perps", subtitle = "Note the recent increase in individual actors from 2010") +
+                 facet_wrap(~perpetrator_count)+
+                 theme(axis.text.x = element_text(angle = 90))+
+                 ylab("Count of Events")  
+
+incident_year
+
+
+```
+####Lets clean up the data
+
+Given that the majority of the events were single shooters we might want to split out analysis by Single vs multiple perpetrator events. Surely this is a different social dynamic? likely the psych field has some insight here
+
+```{r}
+#Pull a list of all the single perp events
+single_perp_df <- multiple_perps %>% 
+  filter(n == 1)
+
+#Single Perps master df - leave victims out of this for the moment
+single_perps_raw <- single_perp_df %>%
+  left_join(incident_clean, by="incidentid") %>%
+  left_join(shooter, by="incidentid")%>%
+  left_join(weapon, by="incidentid")
+
+```
+
+
+```{r}
+#Lets look at age
+age_dist <- single_perps_raw #%>% 
+ # group_by(age) %>% count() %>% 
+ # mutate(age == case_when(
+  #  as.numeric(age) == FALSE  ~ 9999,
+  #  as.numeric(age) == TRUE ~ is.numeric(age)
+ # ))
+
+```

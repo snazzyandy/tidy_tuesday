@@ -1,0 +1,1758 @@
+incidentid,weaponcaliber,weapondetails,weapontype
+19700105DCHIW,Unknown,,Handgun
+19700105DCSOW,.22 caliber,,Handgun
+19700105DCUNW,Unknown,,Handgun
+19700206OHJOC,Unknown,,Handgun
+19700323CADAL,Unknown,,Handgun
+19700415ARPIP,Unknown,,Multiple Handguns
+19700422DEPIW,.38 caliber,,Handgun
+19700508FLCAD,.22 caliber,,Handgun
+19700515UTBEO,9mm,,Handgun
+19700828TXRIE,Unknown,,Handgun
+19700831FLALM,Unknown,,Rifle
+19700914TNHAN,Unknown,,Rifle
+19700924IDMEM,.22 caliber,,Handgun
+19700928IACED,,,No Data
+19701005MIPOD,Unknown,,Handgun
+19701019TNBOM,Unknown,,Handgun
+19701020TNWAN,Unknown,,Handgun
+19701027OHAPM,.38 caliber,,Handgun
+19701120ILHAC,Unknown,,Handgun
+19701212WIXAA,Service Weapon,,Handgun
+19710202PAMOP,.45 caliber,,Handgun
+19710205PAJOW,Unknown,,Handgun
+19710210TXOAD,12 gauge,,Shotgun
+19710225OHFRC,.22 caliber,,Rifle
+19710309AZROT,.22 caliber,,Handgun
+19710405PAWIH,Unknown,,Handgun
+19710527MIBES,Unknown,,Handgun
+19710602NYEAE,.22 caliber,,Handgun
+19710820PAMOM,Unknown,,Handgun
+19710909TXDUL,.22 caliber,,Handgun
+19710924NYMCB,Unknown,,Handgun
+19710928MNCEM,,,No Data
+19710929VAPEP,Unknown,,Handgun
+19711028MDCIB,Unknown,,Handgun
+19711029MDFOB,.22 caliber,,Rifle
+19711029MDFRB,Unknown,,Handgun
+19711103NMCAC,Automatic,,Rifle
+19711108OKGRT,.22 caliber,,Handgun
+19711124MDEDB,Unknown,,Handgun
+19711206CALOL,.22 caliber,,Handgun
+19711213MDCAB,.22 caliber,,Handgun
+19720105DCPAW,.22 caliber,,Handgun
+19720124OHSTS,.22 caliber,,Handgun
+19720126MDGWB,Unknown,,Handgun
+19720126MDHAB,.22 caliber,,Rifle
+19720214ILCAC,Unknown,,Handgun
+19720215ILKEC,Service Weapon,,Handgun
+19720228CAMAL,.22 caliber,,Handgun
+19720313TXUNH,Unknown,,Handgun
+19720412LAEAG,,,No Data
+19720504NVLIR,.22 caliber,,Handgun
+19720505INDEI,.32 caliber,,Handgun
+19720914TXFRH,.25 caliber,,Handgun
+19720915MISAS,,,No Data
+19720919TXCUH,.22 caliber,,Handgun
+19720921OHTHA,Unknown,,Handgun
+19721111CAJEL,,,No Data
+19721127MIPOP,,,No Data
+19721129FLMIM,,,No Data
+19730105NCSOS,Unknown,,Handgun
+19730118CAJOL,Unknown,,Handgun
+19730131NCCUB,Unknown,,Handgun
+19730212ALBOM,Unknown,,Handgun
+19730226VAARR,.38 caliber,,Handgun
+19730405CALOL,Unknown,,Handgun
+19730501OHRAY,Unknown,,Handgun
+19730928CAWIL,Unknown,,Handgun
+19731002ILELA,.38 caliber,,Handgun
+19731019MOBES,,,No Data
+19731023MOSUS,Unknown,,Multiple Unknown
+19731023OHBAB,.22 caliber,,Handgun
+19731024MNCEM,Unknown,,Shotgun
+19731031MONOS,Unknown,,Shotgun
+19731108ILWOC,.38 caliber,,Handgun
+19731109CALOL,,,No Data
+19731206CAFRL,Unknown,,Handgun
+19731213OHHUC,.22 caliber,,Handgun
+19740117ILBAC,.38 caliber,.38-caliber snub-nose revolver and .45-caliber pistol,Handgun
+19740117ILBAC,.45 caliber,.38-caliber snub-nose revolver and .45-caliber pistol,Handgun
+19740122CALOL,,,No Data
+19740207CAJAO,Unknown,,Handgun
+19740322INBRB,.22 caliber,,Rifle
+19740402CTSTB,Unknown,,Other
+19740510TNCHR,Unknown,,Handgun
+19740519FLHIO,Unknown,,Rifle
+19740923CAJED,Unknown,,Handgun
+19740925CASAL,Unknown,,Handgun
+19741007LADEH,.45 caliber,,Handgun
+19741021MDDOB,Unknown,,Handgun
+19741118SCCAC,,,No Data
+19741121ARBOL,.38 caliber,,Handgun
+19741125SCCAC,Unknown,,Handgun
+19741218CAMAL,Unknown,,Handgun
+19741230NYOLO,Unknown,,Multiple Unknown
+19750207NYBOM,.38 caliber,,Handgun
+19750224NJSTP,Unknown,,Handgun
+19750312TXJOH,Unknown,,Handgun
+19750318MOSUS,Unknown,,Unknown
+19750321OHPAD,.22 caliber,,Handgun
+19750321VAFAR,.22 caliber,,Rifle
+19750515MOROS,.32 caliber,,Handgun
+19750527MIPID,Unknown,,Rifle
+19750709ILDEC,,,No Data
+19750711MOCES,Unknown,,Handgun
+19750911OKGRO,Unknown,,Unknown
+19751001NMHEA,.38 caliber,,Handgun
+19751024GAMUA,.38 caliber,,Handgun
+19751218CAORS,.22 caliber,,Rifle
+19760101AZCAP,.22 caliber,,Rifle
+19760123OHCOC,.25 caliber,,Handgun
+19760206FLESP,,,No Data
+19760212MIMUD,Unknown,,Handgun
+19760412TXODF,Unknown,,Handgun
+19760513MOMAS,Unknown,,Handgun
+19760514FLPAW,.38 caliber,,Handgun
+19760602MDMTC,,,No Data
+19760920NCGUG,Unknown,,Shotgun
+19761110MIBUD,Unknown,,Handgun
+19761210MOFRS,.38 caliber,,Handgun
+19770113ILOLB,Unknown,,Handgun
+19770209ILFEC,Unknown,,Handgun
+19770228MOROS,,,No Data
+19770228TXHOA,Unknown,,Handgun
+19770308ILCOE,.25 caliber,,Handgun
+19770321NYPAH,.22 caliber,,Rifle
+19770407TXWHW,.38 caliber,,Handgun
+19770418TNPIN,Unknown,,Handgun
+19770517FLSTC,.22 caliber,,Rifle
+19770622ILHOC,,,No Data
+19770711COSOC,.32 caliber,,Handgun
+19771129MOHAS,.22 caliber,,Rifle
+19771129MOVAS,,,No Data
+19771209CAPES,.22 caliber,,Handgun
+19771212FLWEW,Unknown,,Handgun
+19771215MABLC,,,No Data
+19780111KYCHH,.32 caliber,,Handgun
+19780209WVHAS,.22 caliber,,Handgun
+19780222MIEVL,.22 caliber,,Handgun
+19780309CAMOS,.22 caliber,,Rifle
+19780329TNGAN,Unknown,,Handgun
+19780414MIFOD,Unknown,,Handgun
+19780426TXPAD,.38 caliber,,Handgun
+19780428ILRIN,Unknown,,Handgun
+19780518TXMUA,.22 caliber,,Rifle
+19780519PADOP,Unknown,,Multiple Rifles
+19780607DEDOD,Unknown,,Handgun
+19780610MAWEW,.22 caliber,,Handgun
+19781017ALLAL,.22 caliber,,Handgun
+19781017MOUNU,Unknown,,Handgun
+19781129NYPAN,.22 caliber,,Handgun
+19781214CTWIN,Unknown,,Handgun
+19790129CAGRS,.22 caliber,,Rifle
+19790314FLMCM,Unknown,,Handgun
+19790328CALOL,Unknown,,Handgun
+19790416WIWIM,Unknown,,Shotgun
+19790425PAMAH,Unknown,,Rifle
+19790426TXAZA,.22 caliber,,Handgun
+19790614OHNEN,.22 caliber,,Handgun
+19790926LACAN,.38 caliber,,Handgun
+19790928MACHC,Unknown,,Rifle
+19791023MOOFS,Unknown,,Handgun
+19791105INWAI,Unknown,,Handgun
+19791130TXUNL,.22 caliber,,Handgun
+19791203MDEAB,.25 caliber,,Handgun
+19791221MOBLS,Unknown,,Handgun
+19800107ARSTS,.22 caliber,,Handgun
+19800129VALAW,.45 caliber,,Handgun
+19800201DCLAW,.22 caliber,,Handgun
+19800207TXVAL,.25 caliber,,Handgun
+19800211INARI,.22 caliber,,Handgun
+19800215MSHUM,.32 caliber,,Handgun
+19800320TXJLD,.38 caliber,,Handgun
+19800331MDFRB,.32 caliber,,Handgun
+19800417VACAC,Unknown,,Handgun
+19800530NYCLB,.38 caliber,,Handgun
+19800902CAWHL,12 gauge,,Shotgun
+19800908FLFOJ,Unknown,,Handgun
+19800910DCSPW,.25 caliber,,Handgun
+19800911ALJOM,Unknown,,Handgun
+19800926CTBRB,.22 caliber,,Rifle
+19801013ALCET,Unknown,,Handgun
+19801031ALHUH,.22 caliber,,Handgun
+19801117TXEAF,.22 caliber,,Handgun
+19801212ALPAB,Unknown,,Handgun
+19801212OHLOL,.22 caliber,,Handgun
+19810121OHWIB,.38 caliber,,Handgun
+19810122MDFRB,Unknown,,Handgun
+19810210ARLIL,Unknown,,Handgun
+19810210CAMAL,Unknown,,Shotgun
+19810303INMAI,Unknown,,Handgun
+19810328FLDIF,Unknown,,Handgun
+19810402OHALC,.22 caliber,,Handgun
+19810407MSPOP,,,No Data
+19810515LANEN,.22 caliber,,Handgun
+19810901PAWIP,.25 caliber,,Handgun
+19810904NMHOS,.22 caliber,,Handgun
+19810908FLSTW,.22 caliber,,Handgun
+19810913MDABA,Service Weapon,,Handgun
+19811013CTHAH,Unknown,,Handgun
+19811209NYGEB,Unknown,,Handgun
+19811216TXUNH,.22 caliber,,Handgun
+19811223NYJAB,Unknown,,Handgun
+19820205TNHAM,Unknown,,Handgun
+19820208MADOD,.38 caliber,,Handgun
+19820209LAJON,,,No Data
+19820315ORSPS,.38 caliber,,Handgun
+19820317OHLOL,.25 caliber,,Handgun
+19820319NVVAL,.22 caliber,,Handgun
+19820407CODEL,.38 caliber,,Handgun
+19820415MDFOB,.32 caliber,,Handgun
+19820429GARUE,Unknown,,Rifle
+19820430FLANA,.22 caliber,,Handgun
+19820527NVGAL,Pellet,,Other
+19820910VALAB,,,No Data
+19820915ARSOP,.22 caliber,,Handgun
+19821101NYELE,Unknown,,Handgun
+19821108MICOD,.22 caliber,,Handgun
+19821112MSWIJ,Unknown,,Shotgun
+19821206ALHUH,Unknown,,Handgun
+19821220MIFID,Unknown,,Handgun
+19830118TXJOH,.22 caliber,,Handgun
+19830120MOPAB,.22 caliber,Two .22 automatic,Handgun
+19830120MOPAB,.22 caliber,Two .22 automatic,Handgun
+19830128MDWIB,.25 caliber,,Handgun
+19830130TXWEC,Unknown,,Handgun
+19830131FLDED,.22 caliber,,Handgun
+19830201TNRIM,.25 caliber,,Handgun
+19830202NMALA,,,No Data
+19830331ILSAC,.38 caliber,,Handgun
+19830421MOBES,,,No Data
+19830516NYBRN,.22 caliber,,Rifle
+19830516TXLAD,.357 caliber,,Handgun
+19830518FLNOM,Unknown,,Handgun
+19830523OHMAM,Unknown,,Handgun
+19830526PAGRJ,.22 caliber,,Handgun
+19830912CAMAC,Unknown,,Multiple Handguns
+19830912MIHED,Unknown,,Handgun
+19830921MDWAB,.22 caliber,,Handgun
+19830930TXTET,,,No Data
+19831007CACOL,Unknown,,Handgun
+19831022MDCAB,Starter,,Other
+19831108MIHIH,.38 caliber,,Handgun
+19831117ILJAC,Unknown,,Handgun
+19831118MDHAB,Unknown,,Handgun
+19831202INCRC,.44 caliber,,Handgun
+19831216ILBOR,.357 caliber,,Handgun
+19840105MDLAB,Unknown,,Handgun
+19840206KYCEL,Unknown,,Handgun
+19840221TXSHH,.38 caliber,,Handgun
+19840224CA49L,AR-15,AR15 and 2 shotguns,Rifle
+19840224CA49L,Unknown,AR15 and 2 shotguns,Shotgun
+19840224CA49L,Unknown,AR15 and 2 shotguns,Shotgun
+19840405LACLC,Unknown,,Handgun
+19840420MIPRD,Unknown,,Handgun
+19840426NCROW,Unknown,,Handgun
+19840515MTCMG,.22 caliber,,Rifle
+19840517IASOP,.38 caliber,,Handgun
+19840517TXBOH,.25 caliber,,Handgun
+19840518CANON,Unknown,,Shotgun
+19840522OHCLC,.25 caliber,,Handgun
+19840710MIMUD,,,No Data
+19840831LABOS,Unknown,,Handgun
+19840928TXMIH,Unknown,,Rifle
+19840928TXRIN,Unknown,,Multiple Unknown
+19841021PAWYE,Pellet,,Other
+19841022MICED,Unknown,,Handgun
+19841024MISOD,.38 caliber,,Handgun
+19841024OHWEC,Unknown,,Handgun
+19841030SCPEP,.32 caliber,,Handgun
+19841031LAEAG,.22 caliber,,Handgun
+19841109CTWIN,9mm,,Handgun
+19841126MDMIR,.22 caliber,,Handgun
+19841207MOEDS,Unknown,,Multiple Unknown
+19850118TXARA,410 gauge,,Shotgun
+19850121KSGOG,.357 caliber,M1A .308 and .357 Magnum,Handgun
+19850121KSGOG,.308 caliber,M1A .308 and .357 Magnum,Rifle
+19850126MASTB,Unknown,,Handgun
+19850205CTAIH,Unknown,,Handgun
+19850416TXMAA,Service Weapon,,Handgun
+19850516FLPAB,Unknown,,Handgun
+19850724TXHIH,Unknown,,Handgun
+19850904VAEAR,.38 caliber,,Handgun
+19850909TXWHH,Unknown,,Handgun
+19850920TXLAC,.357 caliber,,Handgun
+19850925OHTRT,Unknown,,Handgun
+19851008MDLAB,Unknown,,Handgun
+19851018MIMUD,Unknown,,Shotgun
+19851022OHSOG,Service Weapon,,Handgun
+19851126WASPS,.22 caliber,,Rifle
+19851127ALCHB,.22 caliber,,Handgun
+19851203NHCOC,20 gauge,,Shotgun
+19851209PAARP,Unknown,,Other
+19851210CTPOP,9mm,,Handgun
+19860109NCNOD,.22 caliber,,Handgun
+19860117CAVAL,Unknown,,Handgun
+19860129MDLAB,Unknown,,Handgun
+19860224LABOS,.45 caliber,,Handgun
+19860306ILTHD,.357 caliber,,Handgun
+19860423FLCHM,.22 caliber,,Handgun
+19860429MOSES,12 gauge,,Shotgun
+19860509NCPIF,.25 caliber,,Handgun
+19860515GACAA,Unknown,,Rifle
+19860517TNMAN,.22 caliber,,Handgun
+19860912CAFAL,Unknown,,Handgun
+19860918CABEB,.38 caliber,,Handgun
+19861003CAMOM,.22 caliber,,Handgun
+19861008TXSOD,.22 caliber,,Handgun
+19861204MTFEL,,,No Data
+19870114CALOL,.22 caliber,,Handgun
+19870123MIRED,,,No Data
+19870210ARDAD,Unknown,,Rifle 
+19870213AZORM,Unknown,,Multiple Unknown
+19870224NYMON,Unknown,,Handgun
+19870302MODED,.45 caliber,,Handgun
+19870306TXRIE,,,No Data
+19870330CAPAS,Unknown,,Handgun
+19870416MIMUD,Unknown,,Handgun
+19870430ORGRP,Unknown,,Handgun
+19870503INPII,Unknown,,Handgun
+19870506ARMAJ,.25 caliber,,Handgun
+19870506FLLET,.38 caliber,,Handgun
+19870513ILOAO,.25 caliber,,Handgun
+19870928ILILL,.22 caliber,,Handgun
+19871014ILDUC,Unknown,,Handgun
+19871030NCSOK,.22 caliber,,Handgun
+19871104MISOD,Unknown,,Handgun
+19871114FLCLC,.45 caliber,,Handgun
+19871130TXPES,Unknown,,Handgun
+19871202FLENJ,.357 caliber,,Handgun
+19871204NYEAN,Unknown,,Handgun
+19871215NYGRB,,,No Data
+19871216TXMAK,.357 caliber,,Handgun
+19880105PASPS,Unknown,,Handgun
+19880106FLGAT,.357 caliber,,Handgun
+19880108PACRM,.32 caliber,,Handgun
+19880120LASIR,.357 caliber,,Handgun
+19880129TXREA,,,No Data
+19880202ALWET,Unknown,,Multiple Unknown
+19880211FLPIL,.38 caliber,.38 pistols (both),Handgun
+19880211FLPIL,.38 caliber,.38 pistols (both),Handgun
+19880226RIBRB,.22 caliber,,Handgun
+19880304MILED,,,No Data
+19880323CACAS,,,No Data
+19880324TXTRA,BB,,Other
+19880505ILMAC,.38 caliber,,Handgun
+19880516FLFOF,.22 caliber,,Handgun
+19880520ILHUW,.357 caliber,,Handgun
+19880520ILHUW,.22 caliber,,Handgun
+19880520ILHUW,.32 caliber,,Handgun
+19880531NYPUB,,,No Data
+19880602MSWIJ,.357 caliber,,Handgun
+19880617MIJOD,.22 caliber,,Handgun
+19880630HIAIO,.38 caliber,,Handgun
+19880710WISIM,Submachine gun,,Other
+19880711MSLAJ,.22 caliber,,Handgun
+19880831MICED,Unknown,,Multiple Handguns
+19880831SCWEA,.25 caliber,,Handgun
+19880902GAGLA,Unknown,,Handgun
+19880902NCGAC,.38 caliber,,Handgun
+19880903TXLID,Unknown,,Handgun
+19880922ILMOC,.38 caliber,,Handgun
+19880926SCOAG,.22 caliber,,Handgun
+19881003FLMAM,Unknown,,Rifle
+19881004FLJEJ,Unknown,,Handgun
+19881004LAISB,,,No Data
+19881005MDEDB,Unknown,,Handgun
+19881006ALMOM,Unknown,,Handgun
+19881007MDSOB,Unknown,,Handgun
+19881007TXDIP,.22 caliber,,Handgun
+19881101FLPAJ,.25 caliber,,Handgun
+19881107UTGLS,.22 caliber,,Handgun
+19881122TXABA,.22 caliber,,Handgun
+19881216VAATV,9mm,,Handgun
+19890105ARHEL,.22 caliber,,Handgun
+19890117CACLS,9mm,Taurus PT92 pistol,Handgun
+19890117CACLS,.223 caliber,"Semi-auto; Legal purchased AK-47 rifle carved with the words ""freedom"", ""victory"", ""Earthman"", and ""Hezbollah""",Rifle
+19890126DCWOW,Unknown,,Handgun
+19890210UTTHK,.22 caliber,,Handgun
+19890303INWIG,.22 caliber,,Handgun
+19890426TXAMD,.22 caliber,,Handgun
+19890911AZDYE,.25 caliber,,Handgun
+19890918KYJAM,Unknown,,Shotgun
+19891005CALOA,Unknown,"Shotgun, pistol",Handgun
+19891005CALOA,Unknown,"Shotgun, pistol",Shotgun
+19891031TXOLD,BB,,Other
+19891113NYALN,.22 caliber,,Handgun
+19891115TXWOA,.22 caliber,,Handgun
+19891122CACHO,.22 caliber,,Handgun
+19891204LACAS,,,No Data
+19891205PASEM,.22 caliber,,Handgun
+19891205TXWWD,.25 caliber,,Handgun
+19891212SCCHC,.45 caliber,,Handgun
+19900116RICEP,,,No Data
+19900220OHTAC,9mm,,Handgun
+19900327NYNEB,.38 caliber,,Handgun
+19900403TXSKD,.25 caliber,,Handgun
+19900504CAMOE,Unknown,,Handgun
+19900520TNHIC,,,No Data
+19900531TXSUF,.22 caliber,,Handgun
+19900824NCMYC,Unknown,,Handgun
+19900827NVELL,Unknown,,Handgun
+19900827TXWHD,Unknown,,Handgun
+19900911TXSAS,.45 caliber,,Handgun
+19900922ALLEB,Unknown,,Handgun
+19901002TXWHD,Unknown,,Handgun
+19901029INCHC,.44 caliber,,Handgun
+19901030TXNAG,.25 caliber,,Handgun
+19901213LASAS,,,No Data
+19910108TXRIR,.357 caliber,,Handgun
+19910117TXHOD,Unknown,,Handgun
+19910219LABON,Unknown,,Handgun
+19910313ALSES,.22 caliber,,Handgun
+19910314SCWOP,,,No Data
+19910325NCGAC,,,No Data
+19910411SCNOR,.22 caliber,,Handgun
+19910423CARAC,,,No Data
+19910423MSHUB,.22 caliber,,Handgun
+19910510OHFRC,Unknown,,Handgun
+19910516KSCOK,.22 caliber,,Rifle
+19910521CAROS,Unknown,,Handgun
+19910521FLSCP,.22 caliber,,Handgun
+19910722CAWEL,.22 caliber,,Handgun
+19910730CAENC,Unknown,,Handgun
+19910913TXMAH,Unknown,,Handgun
+19910917ILWOC,Unknown,,Handgun
+19910918TXCRC,.38 caliber,,Handgun
+19911002TXSPH,.25 caliber,,Handgun
+19911004CADOL,Unknown,,Handgun
+19911004CAROL,Unknown,,Handgun
+19911009NYJAB,Unknown,,Handgun
+19911011MAMAR,.22 caliber,,Handgun
+19911015NHMOS,Unknown,,Rifle
+19911015SCWOW,Unknown,,Handgun
+19911015TXGEP,.22 caliber,,Rifle
+19911023TXOAD,Unknown,,Handgun
+19911106LAWAN,Unknown,,Handgun
+19911111TXYSE,Unknown,,Handgun
+19911114TXMIH,Unknown,,Handgun
+19911125NYTHB,9mm,,Handgun
+19911226NCWHW,Unknown,,Handgun
+19920128LAFRG,Unknown,,Handgun
+19920131LAFRG,Unknown,,Handgun
+19920206OKDOO,,,No Data
+19920207VABON,Unknown,,Handgun
+19920226NYTHB,.38 caliber,,Handgun
+19920305OHHAO,Unknown,,Handgun
+19920331LAOPA,Unknown,,Handgun
+19920409FLFOF,Unknown,,Handgun
+19920417TXLID,,,No Data
+19920501CALIO,.22 caliber,Shotgun and .22 rifle,Rifle
+19920501CALIO,Unknown,Shotgun and .22 rifle,Shotgun
+19920514CASIN,.357 caliber,,Handgun
+19920514TXHUH,Unknown,,Handgun
+19920529CAVEL,,,No Data
+19920606CAMEM,Unknown,,Handgun
+19920911TXPAA,.22 caliber,,Handgun
+19920928CAHIS,Unknown,,Handgun
+19920930TXHOH,Unknown,,Shotgun
+19921013AZDET,.22 caliber,,Handgun
+19921019NYEVB,Unknown,,Rifle
+19921104MIFID,Unknown,,Multiple Unknown
+19921104MIMAD,,,No Data
+19921104MIMUD,Unknown,,Handgun
+19921110ILSHC,.22 caliber,,Handgun
+19921113TXLAC,.45 caliber,,Handgun
+19921116ALFAB,Unknown,,Handgun
+19921120ILTIC,.22 caliber,,Handgun
+19921124ALROM,Unknown,,Handgun
+19921130ILORC,Unknown,,Handgun
+19921203ILWOC,.357 caliber,,Handgun
+19921214NYWAW,.357 caliber,,Handgun
+19930105NYBRB,,,No Data
+19930112FLNOM,Unknown,,Handgun
+19930118KYEAG,.38 caliber,,Handgun
+19930121CAFAL,.357 caliber,,Handgun
+19930201NYAMA,.22 caliber,,Handgun
+19930201WARER,,,No Data
+19930204GACLA,Unknown,,Handgun
+19930208DCWAW,Unknown,,Handgun
+19930208MNMIM,.30-30,,Rifle
+19930222CAREL,Unknown,,Handgun
+19930226MAGLG,,,No Data
+19930308VADOD,.38 caliber,,Handgun
+19930318GAHAH,Unknown,,Handgun
+19930325MOSUS,Unknown,,Handgun
+19930403CAGRS,Unknown,,Shotgun
+19930415MAFOA,Unknown,,Shotgun
+19930416CAGRS,Unknown,,Handgun
+19930416WAMOT,.357 caliber,,Handgun
+19930514TXNII,.38 caliber,,Handgun
+19930524PAUPP,.22 caliber,,Handgun
+19930527LAFRN,Unknown,,Handgun
+19930707CADOL,Unknown,,Handgun
+19930803NYTHN,Unknown,,Handgun
+19930831GAHAA,.22 caliber,,Handgun
+19930901KSJUJ,Unknown,,Handgun
+19930902TXROD,Unknown,,Handgun
+19930916ILROC,,,No Data
+19930917ILDOD,.25 caliber,,Handgun
+19930917WYCES,Unknown,"Owned multiple firearms, military",Multiple Unknown
+19930925DCWEW,Unknown,,Handgun
+19930928MSCOG,.22 caliber,,Handgun
+19931012DEDON,.25 caliber,,Handgun
+19931018DCJHW,Unknown,,Handgun
+19931101ILSUC,Unknown,,Handgun
+19931104CTNEN,,,No Data
+19931104FLTEJ,Unknown,,Handgun
+19931104MSBAB,,,No Data
+19931111ILRIS,Unknown,,Handgun
+19931201WIWAW,,,No Data
+19931202CTNEN,,,No Data
+19931208GABES,Unknown,,Handgun
+19931215CACHS,Unknown,,Handgun
+19931217MICHC,Unknown,,Handgun
+19940120CALOH,,,No Data
+19940121TXKEK,.30-30,,Rifle
+19940124SCEAC,.22 caliber,,Handgun
+19940126DCELW,,,No Data
+19940126DCPAW,9mm,,Handgun
+19940127CAWAS,Unknown,,Unknown
+19940131WAWHS,Semiautomatic,,Rifle
+19940208MIOSD,,,No Data
+19940218SCSPS,9mm,,Handgun
+19940301MOKEB,Unknown,,Shotgun
+19940303ALENB,Unknown,,Handgun
+19940309DCEAW,Unknown,,Handgun
+19940315SCGOC,,,No Data
+19940323WABAS,,,No Data
+19940325GAETC,9mm,,Handgun
+19940405TXMCA,Unknown,,Handgun
+19940408MDLAU,9mm,,Handgun
+19940412MTMAB,.22 caliber,,Handgun
+19940413CA49L,.38 caliber,,Handgun
+19940419DCELW,,,No Data
+19940420INDIS,Unknown,,Handgun
+19940421TNJTN,.25 caliber,,Handgun
+19940502FLNON,.38 caliber,,Handgun
+19940525INLAS,.22 caliber,,Handgun
+19940525NJLAW,.357 caliber,,Handgun
+19940526KYLAU,Unknown,,Handgun
+19940724PAMAM,,,No Data
+19940725IAOTO,Unknown,,Handgun
+19940907CAHOL,,,No Data
+19940908NYSWA,.22 caliber,,Handgun
+19940919CALOL,,,No Data
+19940922ORLEL,.22 caliber,,Handgun
+19941012NCGRG,,,No Data
+19941017ILHUC,Unknown,,Handgun
+19941031CAALA,.45 caliber,,Handgun
+19941105CATHS,Unknown,,Handgun
+19941107OHWIW,,,No Data
+19941108IAWEM,,,No Data
+19941115WASTT,Unknown,,Handgun
+19950105DCCAW,.38 caliber,,Handgun
+19950110FLPAP,.25 caliber,,Handgun
+19950112WAGAS,9mm,,Handgun
+19950123CASAR,Unknown,,Shotgun
+19950124DCSPW,Unknown,,Handgun
+19950202CAJOL,Unknown,,Handgun
+19950208NECHS,Unknown,,Handgun
+19950303MIPED,Unknown,,Handgun
+19950327MIRED,.22 caliber,,Handgun
+19950614FLLAL,.45 caliber,,Handgun
+19950829TXMEL,Unknown,,Shotgun
+19950912TNCYM,.38 caliber,,Handgun
+19950914KSOLO,.22 caliber,,Handgun
+19950915KYGEW,Unknown,,Multiple Handguns
+19950927ALBLP,Unknown,,Handgun
+19950929FLTAT,9mm,,Handgun
+19951012SCBLB,.32 caliber,,Handgun
+19951023FLLAC,.25 caliber,,Handgun
+19951030VAJOR,.38 caliber,,Handgun
+19951102FLBLM,,,No Data
+19951115TNRIL,.22 caliber,,Rifle
+19951128NYTHN,.25 caliber,,Handgun
+19960102PAGIG,,,No Data
+19960119DCWIW,,,No Data
+19960126TNEAM,Unknown,,Handgun
+19960202WAFRM,Unknown,Rifle and 2 handguns taken from father,Handgun
+19960202WAFRM,Unknown,Rifle and 2 handguns taken from father,Handgun
+19960202WAFRM,.30-30,Rifle and 2 handguns taken from father,Rifle
+19960208CAMIM,.38 caliber,,Unknown
+19960222GAJES,.38 caliber,,Handgun
+19960229MOBES,9mm,,Handgun
+19960311NCNON,9mm,,Handgun
+19960319NVSWL,Pellet,,Other
+19960411ALTAT,12 gauge,,Shotgun
+19960415DCMCW,,,No Data
+19960514UTBIT,.357 caliber,,Handgun
+19960522CACOC,Unknown,,Handgun
+19960604CAWEH,,,No Data
+19960726CAJOL,9mm,,Handgun
+19960925GADED,,,No Data
+19961002PASMP,,,No Data
+19961004CASTP,,,No Data
+19961009ARJAS,,,No Data
+19961014MOSUS,,,No Data
+19961127CAHIS,Service Weapon,,Handgun
+19970108NYCRN,Unknown,,Handgun
+19970127FLCOW,.38 caliber,,Handgun
+19970206MSWIJ,9mm,,Handgun
+19970213NYMOB,.25 caliber,,Handgun
+19970213NYSAB,Unknown,,Handgun
+19970219AKBEB,12 gauge,,Shotgun
+19970220FLFIJ,Unknown,,Handgun
+19970221NVRAL,9mm,,Handgun
+19970317MIPED,Unknown,,Handgun
+19970403CAMAM,,,No Data
+19970428CAJOL,Unknown,,Handgun
+19970430NYCIN,,,No Data
+19970513FLNOM,.38 caliber,,Handgun
+19970520OHDUD,.38 caliber,,Handgun
+19970624ALJEM,.38 caliber,,Handgun
+19971001MSPEP,.30-30,,Rifle
+19971005OKMOO,9mm,,Handgun
+19971010INWAG,Unknown,,Handgun
+19971014TXLAG,Unknown,,Handgun
+19971015FLLIP,.38 caliber,,Shotgun
+19971020CAMCO,,,No Data
+19971022CAJON,9mm,,Handgun
+19971107FLRIJ,Unknown,,Handgun
+19971113CACRS,Unknown,,Handgun
+19971201KYHEW,.22 caliber,"5 firearms from neighbor, 2 shotguns from father ",Multiple Unknown
+19971201KYHEW,Unknown,"5 firearms from neighbor, 2 shotguns from father ",Shotgun
+19971201KYHEW,Unknown,"5 firearms from neighbor, 2 shotguns from father ",Shotgun
+19971215ARSTS,.22 caliber,,Rifle
+19980212NJHOH,.38 caliber,,Handgun
+19980225MIRER,.22 caliber,,Rifle
+19980227VAMAF,.22 caliber,,Rifle
+19980324ARWEJ,Unknown,,Multiple Unknown
+19980325CAFED,.22 caliber,,Handgun
+19980325MICOC,12 gauge,,Shotgun
+19980330NCGRC,Unknown,,Handgun
+19980331WIOAO,Unknown,,Rifle
+19980423CACUL,,,No Data
+19980424PAPAE,.25 caliber,,Handgun
+19980428CAPHP,Unknown,,Handgun
+19980428WIPAP,.22 caliber,,Handgun
+19980501FLNOM,,,No Data
+19980501NYPUB,.357 caliber,,Handgun
+19980519TNLIF,.22 caliber,,Rifle
+19980521CARIR,.38 caliber,,Handgun
+19980521ORTHS,9mm,,Handgun
+19980521ORTHS,.22 caliber,,Handgun
+19980521ORTHS,.22 caliber,,Rifle
+19980521WAONO,9mm,,Handgun
+19980527CAWAP,,,No Data
+19980529FLSTF,9mm,,Handgun
+19980615VAARR,.32 caliber,,Handgun
+19980911CAHEG,,,No Data
+19980930FLLEL,Unknown,,Handgun
+19980930FLNOM,,,No Data
+19981103PAMAP,Unknown,,Rifle
+19981130NYHAH,.25 caliber,,Handgun
+19981203INERG,Unknown,,Handgun
+19981211INBEI,.22 caliber,,Handgun
+19990108GACEC,Unknown,,Handgun
+19990114NYHAN,Unknown,,Handgun
+19990121TXRIN,9mm,,Handgun
+19990211ILOME,.45 caliber,,Handgun
+19990211MSJEP,,,No Data
+19990304ILNIS,.357 caliber,,Handgun
+19990416IDNON,Unknown,,Shotgun
+19990420COCOL,9mm,TECH 9 Mini,Handgun
+19990420COCOL,9mm,Hi-Point 995 Carbine,Rifle
+19990420COCOL,12 gauge,Pump Action,Shotgun
+19990420COCOL,12 gauge,Double Barrel (sawed off),Shotgun
+19990422GAMAA,Unknown,,Handgun
+19990422LASCB,.22 caliber,,Handgun
+19990520GAHEC,.357 caliber,".357 pistol, .22 rifle",Handgun
+19990520GAHEC,.22 caliber,".357 pistol, .22 rifle",Rifle
+19990825GAJAM,,,No Data
+19990909CASAS,Unknown,,Handgun
+19990927FLEGT,.22 caliber,,Unknown
+19991004SDJOP,.25 caliber,,Handgun
+19991011NVCLL,.357 caliber,,Handgun
+19991021CASAP,Unknown,,Handgun
+19991026PAMAP,,,No Data
+19991026WVGUB,,,No Data
+19991117TXDID,.22 caliber,,Rifle
+19991119NMDED,.22 caliber,,Handgun
+19991206OKFOF,9mm,,Handgun
+20000110AKBAA,Unknown,,Handgun
+20000113NMALA,.22 caliber,,Handgun
+20000119FLRIN,.22 caliber,,Handgun
+20000120NCERA,.27 caliber,,Rifle
+20000126CAALM,.22 caliber,,Handgun
+20000126NESOO,,,No Data
+20000210PAPEY,Unknown,,Handgun
+20000214ILDUC,Unknown,,Handgun
+20000229MIBUF,.32 caliber,,Handgun
+20000310GABES,,,No Data
+20000323OHMCL,9mm,,Handgun
+20000406OKHUH,.38 caliber,,Handgun
+20000410AZLAT,.38 caliber,,Handgun
+20000502COTHD,,,No Data
+20000510AZCAS,Unknown,,Handgun
+20000526FLLAL,.25 caliber,,Handgun
+20000717WADIR,.22 caliber,,Handgun
+20000726OHTIC,,,No Data
+20000905OHBIB,,,No Data
+20000907ILLOR,Unknown,,Handgun
+20000918OHMOM,.38 caliber,,Handgun
+20000926LACAN,.38 caliber,,Handgun
+20001005MNMIM,,,No Data
+20001024AZPIG,9mm,,Handgun
+20001101TXNEC,9mm,,Handgun
+20001201CAGRL,.38 caliber,,Handgun
+20001201CAJUS,,,No Data
+20001207CARIR,,,No Data
+20001221FLNOM,,,No Data
+20010103CABAS,.38 caliber,,Handgun
+20010110CAHUO,Unknown,,Handgun
+20010117MDLAB,.32 caliber,,Handgun
+20010202MIOSD,,,No Data
+20010302CAHOS,,,No Data
+20010305CASAS,.22 caliber,,Handgun
+20010306MDLAL,Unknown,,Handgun
+20010307PABIW,.22 caliber,,Handgun
+20010307WAKEC,Unknown,,Handgun
+20010322CAGRE,Unknown,,Multiple Unknown
+20010330INLEG,Unknown,,Handgun
+20010402TXKLH,.22 caliber,,Handgun
+20010410WAWAM,Unknown,,Rifle
+20010420LAMOM,.38 caliber,,Handgun
+20010425OHJOC,,,No Data
+20010515TXENE,.357 caliber,,Handgun
+20010607TXOUA,Service Weapon,,Handgun
+20010730CABEL,Unknown,,Handgun
+20010912KYLAC,.38 caliber,,Handgun
+20010921MDLAB,Unknown,,Handgun
+20011012UTTAT,Unknown,,Handgun
+20011026CARER,.38 caliber,,Handgun
+20011026MIBES,Unknown,,Handgun
+20011112MICAC,Unknown,,Multiple Unknown
+20011130TXFRF,.357 caliber,,Handgun
+20020111MSRAJ,,,No Data
+20020115NYMAN,.38 caliber,,Handgun
+20020124PAOLO,Unknown,,Rifle
+20020201TXBRB,.22 caliber,,Handgun
+20020206CAGAL,Unknown,,Handgun
+20020207ILROC,.38 caliber,,Handgun
+20020322CAJOC,.22 caliber,,Handgun
+20020406MDLEB,Service Weapon,,Handgun
+20020426LAABN,9mm,,Handgun
+20021004MTCMG,Unknown,,Handgun
+20021004TXPAS,9mm,,Handgun
+20021007MDBEB,.223 caliber,,Rifle
+20021029NJLIJ,.38 caliber,,Handgun
+20021107MOSTL,Unknown,,Handgun
+20021115CAAML,,,No Data
+20021115TXSCS,Unknown,,Shotgun
+20021202MIOSD,9mm,,Handgun
+20021212WAWIC,Unknown,,Rifle
+20021216ILENC,Unknown,,Handgun
+20030121KYWEO,Unknown,,Handgun
+20030130OKJEJ,9mm,,Handgun
+20030205CORAW,Unknown,,Handgun
+20030318IACLG,.22 caliber,,Rifle
+20030321MSNOM,Unknown,,Handgun
+20030330CAROW,Unknown,,Handgun
+20030401DCCAW,.22 caliber,,Handgun
+20030414LAFAS,Unknown,,Handgun
+20030414LAJON,Unknown,,Multiple Rifles
+20030416TXGRA,,,No Data
+20030424PARER,Unknown,,Multiple Handguns
+20030513PAFOJ,,,No Data
+20030910MSVIV,Unknown,,Handgun
+20030917MACHB,Unknown,,Handgun
+20030917MDOKE,.44 caliber,,Handgun
+20030922WALES,9mm,,Handgun
+20030924MNROC,.22 caliber,,Handgun
+20030925NCBUL,9mm,,Handgun
+20031001CARIS,12 gauge,,Shotgun
+20031007OHKEA,.22 caliber,,Handgun
+20031029LAMAM,Unknown,,Handgun
+20031030DCANW,Unknown,,Handgun
+20031108TXHIS,.38 caliber,,Handgun
+20031113NCEAC,.25 caliber,,Handgun
+20031202ILFEC,Unknown,,Handgun
+20031204OKDOO,Unknown,,Handgun
+20031205ILCAC,Unknown,,Handgun
+20031217MDOLM,.38 caliber,,Handgun
+20031222NJCOW,9mm,,Handgun
+20031229FLABE,,,No Data
+20040115CAPOP,.22 caliber,,Handgun
+20040121NVFAH,Unknown,,Handgun
+20040202DCBAW,.38 caliber,,Handgun
+20040203TXYOH,.38 caliber,,Handgun
+20040206LAFAS,Service Weapon,,Handgun
+20040209NYCOE,12 gauge,,Shotgun
+20040211PATMP,Unknown,,Multiple Unknown
+20040213OHCOD,10mm,,Handgun
+20040220LAGAS,Unknown,,Handgun
+20040305CASAL,,,No Data
+20040317WACRJ,.22 caliber,,Rifle
+20040504TXKAH,,,No Data
+20040507MDRAR,9mm,,Handgun
+20040512CAEAM,Unknown,,Shotgun
+20040524UTWES,.38 caliber,,Handgun
+20040609CACAO,,,No Data
+20040803ALHUB,.22 caliber,,Handgun
+20040824TNHAM,Unknown,,Handgun
+20040830ILPRM,Unknown,,Handgun
+20040912LABON,.38 caliber,,Handgun
+20040915INWIG,.38 caliber,,Handgun
+20041002NEJEG,.357 caliber,,Handgun
+20041007MANEN,Unknown,,Shotgun
+20041012CALAS,Unknown,,Handgun
+20041015CABIB,,,No Data
+20041021MDTHB,Unknown,,Handgun
+20041022CATYH,,,No Data
+20041115ALPAB,Unknown,,Handgun
+20041115INBRG,,,No Data
+20041116SCBAB,.22 caliber,,Handgun
+20041117FLAPA,9mm,,Handgun
+20041119FLTEJ,Unknown,,Handgun
+20041209WALAS,,,No Data
+20041213LALAL,Unknown,,Handgun
+20041231TXRIR,Unknown,,Handgun
+20050105PAMUN,Unknown,,Handgun
+20050126ILWOP,Unknown,,Handgun
+20050204GAMCA,Unknown,,Handgun
+20050208ILBOC,,,No Data
+20050302TNSTD,.45 caliber,,Handgun
+20050309TNMAN,Unknown,,Handgun
+20050310TXZAD,Unknown,,Handgun
+20050314OHLEC,.45 caliber,,Handgun
+20050316PACAP,AK-47,,Rifle
+20050317CALOL,Unknown,,Handgun
+20050317LAOPA,Unknown,,Handgun
+20050321MNRER,.40 caliber,,Handgun
+20050321MNRER,12 gauge,,Shotgun
+20050321NYNEB,.45 caliber,,Handgun
+20050324TNFAM,Unknown,,Handgun
+20050330TNEAM,Unknown,,Handgun
+20050407TXCAC,.45 caliber,,Handgun
+20050427LALER,.25 caliber,,Handgun
+20050429OHDAC,,,No Data
+20050514TXBER,9mm,,Handgun
+20050517PAHIL,9mm,,Handgun
+20050520ILLOM,Airsoft,,Other
+20050524COACD,BB,,Other
+20050524LABOS,.45 caliber,,Handgun
+20050608NYARP,BB,,Other
+20050612NJBAA,Unknown,,Handgun
+20050718NJWEN,Unknown,,Handgun
+20050816VICOE,,,No Data
+20050817CAPLB,Unknown,,Handgun
+20050819GAMOM,Unknown,,Handgun
+20050825TNMAD,.38 caliber,,Handgun
+20050901AKDIA,Unknown,,Handgun
+20050902FLSOJ,Unknown,,Handgun
+20050913ILHAC,.25 caliber,,Handgun
+20050924MISAS,,,No Data
+20051011MIFAF,12 gauge,,Shotgun
+20051014NYSAN,Unknown,,Handgun
+20051019CASAS,,,No Data
+20051020MISAS,.38 caliber,,Handgun
+20051027CABIF,,,No Data
+20051028MDANA,Unknown,,Handgun
+20051028NYFAF,Unknown,,Handgun
+20051108TNCAJ,.22 caliber,,Handgun
+20051115FLPAM,.25 caliber,,Handgun
+20051116TXIRS,Service Weapon,,Handgun
+20051205MABOR,Unknown,,Handgun
+20051206CASAG,Unknown,,Handgun
+20051206MICED,Unknown,,Handgun
+20060103NJLIJ,Unknown,,Handgun
+20060110DEMOW,Unknown,,Handgun
+20060111WIMAM,,,No Data
+20060113ALPIP,Unknown,,Handgun
+20060113FLMIL,Unknown,,Rifle
+20060113MIOSD,Unknown,,Handgun
+20060118MTFRA,Airsoft,,Other
+20060118TXPAA,.22 caliber,,Handgun
+20060118VAINC,Unknown,,Handgun
+20060119OHWIC,,,No Data
+20060123CAWIV,Unknown,,Handgun
+20060127TXLAG,Unknown,,Handgun
+20060130MTCMG,Unknown,,Handgun
+20060203CALOC,.22 caliber,,Handgun
+20060209DEWIN,Unknown,,Handgun
+20060215PAWEY,.38 caliber,,Handgun
+20060221PAWEP,AK-47,,Rifle
+20060223ORROR,Unknown,,Handgun
+20060310NYISN,BB,,Other
+20060314NVPIR,.38 caliber,,Handgun
+20060405DCROW,,,No Data
+20060418TXWEH,Unknown,,Handgun
+20060424NCEAC,Unknown,,Shotgun
+20060505FLPAM,Unknown,,Handgun
+20060522SCBUI,.40 caliber,,Handgun
+20060525PANON,.22 caliber,,Rifle
+20060605CAVEL,.38 caliber,,Handgun
+20060606INWIG,Unknown,,Handgun
+20060615MIPED,Unknown,,Handgun
+20060731FLYOT,Unknown,,Handgun
+20060815KYJTV,Unknown,,Handgun
+20060817TXMEA,Unknown,,Handgun
+20060819OHSOY,9mm,,Handgun
+20060820GALYH,Unknown,,Handgun
+20060821INCAN,Unknown,,Handgun
+20060824VTESE,.45 caliber,,Handgun
+20060829DCANW,Unknown,,Handgun
+20060830NCORH,Unknown,,Multiple Unknown
+20060831ALOXO,Unknown,,Handgun
+20060905TNKIM,Unknown,,Handgun
+20060908TXSOF,Service Weapon,,Handgun
+20060913MOWEC,Service Weapon,,Handgun
+20060921DCCAW,Unknown,,Handgun
+20060927COPLB,Unknown,,Multiple Handguns
+20060929WIWEC,Unknown,,Multiple Unknown
+20061002PAWEN,Unknown,,Multiple Unknown
+20061009MOMEJ,7.26mm,,Rifle
+20061010NYPOP,BB,,Other
+20061012MDGRB,.22 caliber,,Handgun
+20061017TXSEK,,,No Data
+20061031TNHAK,.22 caliber,,Handgun
+20061111CALIO,Unknown,,Handgun
+20061122GASAA,Unknown,,Handgun
+20061201NCJOT,9mm,,Handgun
+20061207NENOO,Unknown,,Handgun
+20061211ILCLC,Unknown,,Handgun
+20061212PASPS,AK-47,,Rifle
+20061213PABAB,Pellet,,Other
+20061214PAMCC,.22 caliber,,Rifle
+20070102NCWEF,Unknown,,Handgun
+20070103WAHET,9mm,,Handgun
+20070104MINOD,,,No Data
+20070108OHROC,Unknown,,Multiple Handguns
+20070109CAGRV,,,No Data
+20070109NVWEL,Unknown,,Handgun
+20070118PAWIP,Unknown,,Handgun
+20070124TNHAS,.25 caliber,,Handgun
+20070131ILHIC,Unknown,,Handgun
+20070207FLPAJ,Unknown,,Handgun
+20070208ORCRP,Unknown,,Handgun
+20070208TXSTP,BB,,Other
+20070226CASLA,Airsoft,,Other
+20070227GACLA,Airsoft,,Other
+20070307CACEC,Unknown,,Handgun
+20070307MIHEM,.44 caliber,,Handgun
+20070307TXGRG,,,No Data
+20070308TNEAC,Unknown,,Handgun
+20070323FLUNO,Unknown,,Other
+20070327CTSAH,Unknown,,Handgun
+20070329SCMYM,Unknown,,Handgun
+20070410ILCHC,Unknown,,Handgun
+20070410ORSPG,.27 caliber,,Rifle
+20070418NCNOH,Unknown,,Handgun
+20070503OHGED,Pellet,,Other
+20070504TXTIE,.38 caliber,,Handgun
+20070510MIHED,,,No Data
+20070512TXWEM,Unknown,,Shotgun
+20070515TXLIL,.38 caliber,,Handgun
+20070523RIOAC,BB,,Other
+20070530NCVAG,Pellet,,Other
+20070531NCNOG,Pellet,,Other
+20070617SCBRB,Unknown,,Handgun
+20070628TXDAD,Unknown,,Handgun
+20070709ILCAC,,,No Data
+20070804NJMON,.357 caliber,,Handgun
+20070928CALAO,.22 caliber,,Handgun
+20070930AZSSP,,,No Data
+20071001CTPLM,BB,,Other
+20071010OHSUC,Unknown,,Multiple Handguns
+20071024TNMAM,Unknown,,Handgun
+20071105LAJOR,Unknown,,Handgun
+20071126NYHOH,Unknown,,Handgun
+20071221CABAU,,,No Data
+20080204TNHAM,.38 caliber,,Handgun
+20080211TNMIM,.22 caliber,,Handgun
+20080214CAEOO,.22 caliber,null,Handgun
+20080306ALDAM,.38 caliber,,Handgun
+20080416CAROF,Service Weapon,,Handgun
+20080516LAMAT,,,No Data
+20080811WAWAK,.25 caliber,,Handgun
+20080814WALAF,Unknown,,Handgun
+20080821TNCEK,.22 caliber,,Handgun
+20080902OHSOW,.45 caliber,,Handgun
+20080915CAMIS,.38 caliber,,Handgun
+20080919CAGEA,,,No Data
+20081016MIHED,,,No Data
+20081020CAVAA,Unknown,,Handgun
+20081023ALPRP,Unknown,,Handgun
+20081029CAELG,Pellet,,Other
+20081031MESTS,,,No Data
+20081103CABEB,Unknown,,Handgun
+20081103CAELO,BB,,Other
+20081112FLDIF,.22 caliber,,Handgun
+20081115COTHL,Unknown,,Handgun
+20081115UTDES,.38 caliber,,Handgun
+20081118CACEC,Unknown,,Handgun
+20081118CACOO,Unknown,,Handgun
+20081125TXNOH,,,No Data
+20081130CAOAG,Unknown,,Handgun
+20081202CAKIK,.22 caliber,,Handgun
+20081205MNSHF,Unknown,,Handgun
+20081212NCGUA,9mm,,Handgun
+20081212NYWIM,9mm,,Handgun
+20081221SCSUS,Unknown,,Handgun
+20081222FLLAL,Unknown,,Handgun
+20081227PAWIP,,,No Data
+20081231GASHS,Unknown,,Shotgun
+20081231OKKEN,,,No Data
+20090108DEWIN,Service Weapon,,Handgun
+20090109ILDUC,Unknown,,Handgun
+20090114ILPEC,,,No Data
+20090120ILCOC,Unknown,,Handgun
+20090120MIBEM,Unknown,,Multiple Handguns
+20090120PAEAE,Unknown,,Handgun
+20090123ILCAC,Unknown,,Handgun
+20090127NCCLC,Unknown,,Handgun
+20090210CABAE,.22 caliber,,Handgun
+20090211NCSCZ,.22 caliber,,Handgun
+20090217MICED,Unknown,,Handgun
+20090220CAJOH,Unknown,,Shotgun
+20090223CTBRN,Unknown,,Handgun
+20090302SDROS,Pellet,,Other
+20090306NCWEF,,,No Data
+20090310FLRIJ,Unknown,,Handgun
+20090311TXCYH,Unknown,,Handgun
+20090413CALOL,Unknown,,Handgun
+20090501WISHS,,,No Data
+20090505NYCAC,Unknown,,Shotgun
+20090518LALAL,.25 caliber,,Handgun
+20090615CAINS,Unknown,,Handgun
+20090624IAAPP,.22 caliber ,,Handgun
+20090827NCWEF,Unknown,,Handgun
+20090908CTSTS,.22 caliber,,Handgun
+20090916VAVIG,.40 caliber,,Handgun
+20091008NYMAM,.22 caliber,,Rifle
+20091016SCCAC,Service Weapon,,Handgun
+20091030CAWIL,.25 caliber,,Shotgun
+20091106PAHAW,.22 caliber,,Handgun
+20091211LABOS,Unknown,,Handgun
+20100120ALLIL,,,No Data
+20100205ALDIM,.22 caliber,,Handgun
+20100210TNINK,Unknown,,Handgun
+20100223CODEL,.30-06,,Rifle
+20100226WABIT,,,No Data
+20100428VAWOP,Unknown,,Handgun
+20100518CASOS,Unknown,,Handgun
+20100830TNSUB,.38 caliber,,Handgun
+20100908MIMUD,,,No Data
+20100921SCSOC,Unknown,,Handgun
+20101001CAALS,,,No Data
+20101008CAKEC,.357 caliber,,Handgun
+20101023KSTOT,Unknown,,Handgun
+20101129WIMAM,Unknown,,Handgun
+20101206COAUA,Unknown,,Handgun
+20110104INCRC,BB,,Other
+20110105NEMIO,.40 caliber,,Handgun
+20110118CAGAL,Unknown,,Handgun
+20110202CALOP,.357 caliber,,Handgun
+20110325INMAM,9mm,,Handgun
+20110330TXWOH,Unknown,,Handgun
+20110413FLSHA,Unknown,,Handgun
+20110419TXBEH,.38 caliber,,Handgun
+20110517WAHOE,Unknown,,Handgun
+20110523HIHIP,.45 caliber,,Handgun
+20110923WAISS,Unknown,,Rifle
+20110930NCGAC,Unknown,,Handgun
+20110930ORWIP,.22 caliber,.22 pistol and double barreled shotgun,Handgun
+20110930ORWIP,Double-barreled,.22 pistol and double barreled shotgun,Shotgun
+20111024NCCAF,.22 caliber,,Rifle
+20111212TXHAE,.308 caliber,,Rifle
+20111228MINOF,Unknown,,Handgun
+20120104TXCUB,Airsoft,,Handgun
+20120110TXNOH,Unknown,,Handgun
+20120210NHWAW,20 gauge,,Shotgun
+20120222WAARB,.45 caliber,,Handgun
+20120227OHCHC,.22 caliber,,Handgun
+20120306FLEPJ,AK-47,,Rifle
+20120315ALLEM,Unknown,,Handgun
+20120401ARKIR,Unknown,,Handgun
+20120525AZWEA,Unknown,,Handgun
+20120525NCMAC,.44 caliber,,Handgun
+20120706RINAP,,,No Data
+20120816TNHAM,Unknown,,Unknown
+20120824GABAH,Unknown,,Handgun
+20120827MDPEP,12 gauge,,Shotgun
+20120907ILNON,.22 caliber,,Handgun
+20120926OKSTS,Unknown,,Handgun
+20121012NDFAF,Unknown,,Handgun
+20121019ILBAC,Unknown,,Unknown
+20121210TXSPH,Unknown,,Handgun
+20121214CTSAN,10mm,,Handgun
+20121214CTSAN,9mm,,Handgun
+20121214CTSAN,AR-15,,Rifle
+20121214CTSAN,12 gauge,,Shotgun
+20130107FLAPF,Unknown,,Unknown
+20130110CATAT,12 gauge,,Shotgun
+20130111MIOSD,Unknown,,Unknown
+20130131GAPRA,Unknown,,Handgun
+20130201MIMAD,Unknown,,Handgun
+20130213CAHIS,Unknown,,Handgun
+20130227GAGRA,.38 caliber,,Handgun
+20130321MIDAS,.40 caliber,,Handgun
+20130416TXTET,Unknown,,Handgun
+20130429OHLAC,.45 caliber,,Handgun
+20130430NMTUT,Unknown,,Rifle
+20130513ALOSB,Unknown,,Handgun
+20130523FLREH,.38 caliber,,Handgun
+20130618NCHIC,Unknown,,Multiple Handguns
+20130619FLALW,Unknown,,Handgun
+20130815TNNOC,Unknown,,Handgun
+20130820GAROD,AK-47,,Rifle
+20130822TNWEM,Unknown,,Handgun
+20130823MSNOS,Unknown,,Unknown
+20130830NCCAW,.38 caliber,,Handgun
+20130927ILROC,Unknown,,Handgun
+20130928MENEG,Unknown,,Unknown
+20131002NHWIS,Pellet,,Other
+20131004FLAGP,Unknown,,Unknown
+20131015TXLAA,Unknown,,Handgun
+20131021NVSPS,9mm,,Handgun
+20131023CANEC,Service Weapon,,Rifle
+20131101IAALA,Unknown,,Unknown
+20131103GASTL,Unknown,,Unknown
+20131113PABRP,.22 caliber,,Handgun
+20131204FLWEW,Unknown,,Handgun
+20131213COARC,12 gauge,,Shotgun
+20131219CAEDF,Unknown,,Handgun
+20140109TNLIJ,Unknown,,Handgun
+20140113CTHIN,Unknown,,Handgun
+20140114LASTB,Unknown,,Handgun
+20140114NMBER,20 gauge,,Shotgun
+20140114PAKIL,Unknown,,Handgun
+20140117PADEP,Unknown,,Handgun
+20140127ILREC,Unknown,,Handgun
+20140128HIPRH,Service Weapon,,Handgun
+20140131AZCEP,Unknown,,Unknown
+20140131IANOD,Unknown,,Unknown
+20140207ORBEB,Unknown,,Rifle
+20140210NCSAS,9mm,,Handgun
+20140211OHCHL,Unknown,,Handgun
+20140220MIRAR,.45 caliber,,Handgun
+20140307LAMAT,Unknown,,Handgun
+20140312FLACM,Unknown,,Handgun
+20140325GABEC,Unknown,,Handgun
+20140403NJUNN,,,No Data
+20140409NCDHG,.45 caliber,,Handgun
+20140410OHLIC,Unknown,,Handgun
+20140411MIEAD,Unknown,,Unknown
+20140421INSTG,,,No Data
+20140421UTPRP,.22 caliber,,Handgun
+20140503WAHOE,,,No Data
+20140514CAJOR,Unknown,,Unknown
+20140521WICLM,9mm,,Handgun
+20140610ORRET,Unknown,"AR15, handgun",Handgun
+20140610ORRET,AR-15,"AR15, handgun",Rifle
+20140623MOKEB,Unknown,,Handgun
+20140813MDHEF,,,No Data
+20140814VASAN,12 gauge,,Shotgun
+20140909FLSTM,Unknown,2 firearms recovered,Multiple Unknown
+20140910FLGRL,.40 caliber,,Handgun
+20140911UTWET,9mm,,Handgun
+20140919IANOD,Unknown,,Shotgun
+20140925NHWEM,Pellet,,Other
+20140930KYFEL,Unknown,,Handgun
+20140930NCALA,Unknown,,Handgun
+20141003GALAF,Unknown,,Handgun
+20141021TNAMM,Unknown,,Handgun
+20141024GALAA,Unknown,,Handgun
+20141024WAMAM,.40 caliber,,Handgun
+20141120FLMIM,Unknown,,Handgun
+20141212ORROP,Unknown,,Handgun
+20141216PASUP,,,No Data
+20141217MEBEW,.38 caliber,,Handgun
+20141217MIGOW,Unknown,,Handgun
+20150115WIWIM,.38 caliber,,Handgun
+20150116FLVAO,.40 caliber,,Handgun
+20150120ALWIM,Unknown,,Handgun
+20150122SCROH,Unknown,,Handgun
+20150126MNHAR,Unknown,,Handgun
+20150204MDFRF,Unknown,,Handgun
+20150215ARLAL,,,No Data
+20150215CATEM,Unknown,,Unknown
+20150330MOPEU,,,No Data
+20150417TXSES,,,No Data
+20150422NVRUL,.45 caliber,,Handgun
+20150427WANOL,.357 caliber,,Handgun
+20150428MDDRW,Unknown,,Handgun
+20150504OHWIC,,,No Data
+20150505GACOC,Unknown,,Handgun
+20150512AZCOT,Unknown,,Handgun
+20150512FLUNJ,Unknown,,Handgun
+20150520TXROR,Unknown,,No Data
+20150524MISOF,,,No Data
+20150527FLEVE,Unknown,,Handgun
+20150604NCSOF,Unknown,,Multiple Handguns
+20150623NEFOF,Unknown,,Handgun
+20150627CTSAH,,,No Data
+20150629TXJOS,Service Weapon,,Handgun
+20150705TXCOD,Unknown,,Handgun
+20150724TXELC,Unknown,,Handgun
+20150808TXPAP,9mm,,Handgun
+20150823TXWIR,.40 caliber,,Handgun
+20150825GAWSA,.38 caliber,,Handgun
+20150903ORNEN,,,No Data
+20150911LANOL,,,No Data
+20150922NCCES,.45 caliber,,Handgun
+20150930SDHAH,Unknown,,Handgun
+20151015TXKAS,Unknown,,Handgun
+20151024TXEDS,,,No Data
+20151105GAVEM,Service weapon,,Handgun
+20151111ARSUS,Unknown,,Handgun
+20151120FLNAM,Unknown,,Handgun
+20151204KSWEW,Unknown,,Handgun
+20160112DECED,.38 caliber,,Handgun
+20160113ARHAB,Unknown,,Handgun
+20160120INNOI,Unknown,,Handgun
+20160122INLAI,Unknown,,Handgun
+20160129PABEP,.45 caliber,,Handgun
+20160209MIMUM,Unknown,,Handgun
+20160212AZING,9mm,,Handgun
+20160217FLROH,Unknown,,Handgun
+20160217PACHC,Unknown,,Handgun
+20160226TXPAP,Unknown,,Handgun
+20160229OHMAM,9mm,,Handgun
+20160315ALHUB,Unknown,,Handgun
+20160423WIANA,Semiautomatic,,Rifle
+20160502TXKID,.22 caliber,,Handgun
+20160504COEAP,Unknown,,Handgun
+20160505MDHIB,Unknown,,Handgun
+20160506FLOSP,Unknown,,Handgun
+20160506IDROT,Unknown,,Handgun
+20160513SCSOG,Unknown,,Handgun
+20160515KSAUA,.38 caliber,,Handgun
+20160608MAJED,Unknown,,Unknown
+20160616ILMCC,,,No Data
+20160630CAWOH,,,No Data
+20160725MOAVA,Unknown,,Handgun
+20160817OHWEC,Unknown,,Handgun
+20160819FLSOM,Unknown,,Handgun
+20160902OKMCT,Unknown,,Handgun
+20160907MIDED,,,No Data
+20160908TXALA,9mm,,Handgun
+20160909IACEC,Unknown,,Handgun
+20160909PASMY,Unknown,,Handgun
+20160926MSTAJ,Unknown,,Handgun
+20160927OHELC,Unknown,,Rifle
+20160928SCTOT,.40 caliber,,Handgun
+20160930ILCHC,,,No Data
+20161006TXDUF,,,No Data
+20161011ALVIM,,,No Data
+20161013OHLIC,Unknown,,Multiple Handguns
+20161015GABEA,,,No Data
+20161018CAJUS,Unknown,,Multiple Unknown
+20161025UTUNS,Unknown,,Handgun
+20161102COGRG,,,No Data
+20161103COBEB,,,No Data
+20161111MIBAA,.38 caliber,,Handgun
+20161117MNCRS,.38 caliber,,Handgun
+20161201UTMUB,12 gauge,,Shotgun
+20161209MOBAS,Unknown,,Handgun
+20161209NVHUR,Service Weapon,,Handgun
+20170101DELAH,Unknown,,Handgun
+20170110ALALA,Unknown,,Handgun
+20170117FLFRE,,,No Data
+20170120OHWEW,12 gauge,,Shotgun
+20170127SCSOA,9mm,,Handgun
+20170206LASCB,Unknown,,Handgun
+20170218MNMAM,Unknown,,Handgun
+20170316ALROM,.40 caliber,,Handgun
+20170321CAKIK,Unknown,,Handgun
+20170328PALIP,Unknown,,Handgun
+20170410CANOS,.357 caliber,,Handgun
+20170415OKBOT,,,No Data
+20170515LAMOL,.38 caliber,,Handgun
+20170523TXKEK,.38 caliber,,Handgun
+20170524ALGRG,.22 caliber,,Handgun
+20170524NEMCO,,,No Data
+20170526OKMCT,Unknown,,Handgun
+20170616ILWAC,Unknown,,Handgun
+20170622SCWIF,Unknown,,Handgun
+20170719WIHIM,Unknown,,Handgun
+20170721UTSPS,.38 caliber,,Handgun
+20170801GABAV,Unknown,,Handgun
+20170817GALIL,,,No Data
+20170831CAARS,Unknown,,Handgun
+20170908ARNON,,,No Data
+20170908OHCOC,.38 caliber,,Handgun
+20170913WAFRR,.32 caliber,Handgun and AR15 rifle,Handgun
+20170913WAFRR,AR-15,Handgun and AR15 rifle,Rifle
+20170920ILMAM,.40 caliber,,Handgun
+20170928KYSOL,,,No Data
+20170929CASUL,BB,,Other
+20170929MOLEL,,,No Data
+20170930PAPUC,.38 caliber,,Handgun
+20171012NCCHC,Unknown,,Handgun
+20171014NCKEK,9mm,,Handgun
+20171020OHSTT,Unknown,,Handgun
+20171027NYPRU,,,No Data
+20171103MIPAL,Unknown,,Handgun
+20171109GABEC,Unknown,,Handgun
+20171110GALAM,9mm,,Handgun
+20171114CARAR,Unknown,2 Semi-automatic Rifles and 2 handguns,Handgun
+20171114CARAR,Unknown,2 Semi-automatic Rifles and 2 handguns,Handgun
+20171114CARAR,Semiautomatic,2 Semi-automatic Rifles and 2 handguns,Rifle
+20171114CARAR,Semiautomatic,2 Semi-automatic Rifles and 2 handguns,Rifle
+20171114FLLAM,Unknown,,Handgun
+20171117TNNOJ,,,No Data
+20171123COMAD,,,No Data
+20171128CABOS,Unknown,,Shotgun
+20171129OHBAL,Unknown,,Handgun
+20171130VASAV,,,No Data
+20171207NMAZA,9mm,,Handgun
+20171209ILCHC,Unknown,,Handgun
+20171211NCHIH,Unknown,,Handgun
+20171212TXSAP,,,No Data
+20171214TXELD,Unknown,,Handgun
+20171219MIBEB,Unknown,,Handgun
+20171227CALIL,Unknown,,Handgun
+20171231LAEDA,Unknown,,Multiple Unknown
+20171231WAPIM,,,No Data
+20180104WANES,,,No Data
+20180105IAFOF,Pellet,,Other
+20180109AZCOS,Unknown,,Handgun
+20180116VTMOM,Service Weapon,,Handgun
+20180122LANEN,,,No Data
+20180122TXITI,.38 caliber,,Handgun
+20180123KYMAB,9mm,,Handgun
+20180125ALMUM,.38 caliber,,Handgun
+20180126MIDED,,,No Data
+20180131PALIP,Unknown,3 different firearms discharged,Multiple Unknown
+20180201CASAL,Unknown,,Handgun
+20180205MDOXO,Unknown,,Handgun
+20180205MNHAM,Service Weapon,,Handgun
+20180208NYTHN,Unknown,,Handgun
+20180209TNPEN,Unknown,,Handgun
+20180214FLMAP,AR-15,,Rifle
+20180215FLNOC,Service Weapon,,Handgun
+20180220OHJAM,.22 caliber,,Rifle
+20180226WAOAT,Unknown,,Handgun
+20180228GADAD,.38 caliber,,Handgun
+20180305MOKIC,,,No Data
+20180307ALHUB,Unknown,,Handgun
+20180309KYFRL,Unknown,,Handgun
+20180313CASES,.45 caliber,,Handgun
+20180313VAGEA,Unknown,,Handgun
+20180316MTBIM,Service weapon,,Handgun
+20180319VADOP,,,No Data
+20180320MDGRG,9mm,,Handgun
+20180328MSEUE,9mm,,Handgun
+20180329KYJOE,Unknown,,Handgun
+20180409NYGLG,BB,,Handgun
+20180412MORAR,Unknown,,Handgun
+20180419MIJAJ,Unknown,,Handgun
+20180420FLFOO,Unknown,,Shotgun
+20180423GABEA,Unknown,,Handgun
+20180503SDENW,,,No Data
+20180503TNWAW,,,No Data
+20180505MIFOF,Unknown,,Handgun
+20180511CAHIP,Semiautomatic,,Rifle
+20180516ILDID,9mm,,Rifle
+20180517MOCEK,Unknown,,Handgun
+20180518GAMOA,Unknown,,Handgun
+20180518TXSAS,.38 caliber,".38 pistol, shotgun",Handgun
+20180518TXSAS,Unknown,".38 pistol, shotgun",Shotgun
+20180521GABEG,,,No Data
+20180525INNON,Unknown,2 handguns,Handgun
+20180525INNON,Unknown,2 handguns,Handgun
+20180601TXMCM,,,No Data
+20180615OHVAB,,,No Data
+20180617ORGRP,,,No Data
+20180621TXSKD,,,No Data
+20180624MTSEM,Unknown,,Handgun
+20180625OHFUS,Unknown,,Handgun
+20180701TNRAM,,,No Data
+20180703KSSUO,Unknown,,Handgun
+20180711OHMIM,,,No Data
+20180717WVHUH,Unknown,,Handgun
+20180719WAWEY,,,No Data
+20180804MDEDE,,,No Data
+20180809NJLAM,,,No Data
+20180811TNANN,Unknown,,Handgun
+20180817FLPAW,Unknown,,Handgun
+20180823ALALM,Unknown,,Handgun
+20180824FLRAJ,Unknown,,Handgun
+20180824ILMEC,Unknown,,Multiple Unknown
+20180828COCOD,Unknown,,Handgun
+20180829DETOD,Unknown,,Unknown
+20180830MIOTG,,,
+20180830NCVIC,Unknown,,Handgun
+20180831CABAS,Unknown,,Handgun
+20180831IANOE,.22 caliber,,Handgun
+20180903NYLUN,Unknown,,Handgun
+20180905RIPRP,.357 caliber,,Handgun
+20180907IAHED,,,No Data
+20180909CAGIG,Unknown,,Handgun
+20180910ILCHC,Unknown,,Handgun
+20180910TNFAM,,,No Data
+20180911NVCAL,Unknown,,Handgun
+20180914FLBOB,Unknown,,Handgun
+20180914WAMAE,Unknown,,Handgun
+20180917ALBLH,Unknown,,Handgun
+20180920CACHL,Unknown,,Handgun
+20180920CAPOP,,,No Data
+20180924GAAPB,Unknown,,Handgun
+20180924NCLAC,Unknown,,Handgun
+20180924PACEP,Unknown,,Handgun
+20180926MDMAB,Unknown,,Handgun
+20180927TXHEC,Unknown,,Handgun
+20180928SDCHC,Unknown,,Handgun
+20181002ARCHL,Unknown,,Handgun
+20181003AKDEA,Unknown,,Handgun
+20181004ORJAP,Unknown,,Handgun
+20181005TNHAB,Unknown,,Handgun
+20181005VALAN,Unknown,,Handgun
+20181007VAVAH,Unknown,,Handgun
+20181012MIBAB,,,No Data
+20181013TNMCN,,,No Data
+20181020GASHS,Unknown,,Handgun
+20181022CTDUB,Unknown,,Handgun
+20181023NHGOM,Pellet,,Other
+20181025MICOD,,,No Data
+20181029NCBUM,Unknown,,Handgun
+20181104KYCRL,Unknown,,Handgun
+20181105SCACC,BB,,Other
+20181108CACLS,,,No Data
+20181109GAGAM,Unknown,,Handgun
+20181112MDEAE,Service Weapon,,Handgun
+20181120VASIP,Unknown,,Handgun
+20181121MIPEP,BB,,Other
+20181122TXSKD,Unknown,,Handgun
+20181122WAMOD,Unknown,,Handgun
+20181124OHAFC,Unknown,,Handgun
+20181128PASTP,,,No Data
+20181210NYJEJ,Unknown,,Handgun
+20181211KYCAC,Pellet,,Other
+20181213INDER,.45 caliber,".223 rifle, .45 handgun",Handgun
+20181213INDER,.223 caliber,".223 rifle, .45 handgun",Rifle
+20181214MOWIK,Unknown,,Handgun
+20181218DEAIG,Unknown,,Handgun
+20190107CACEB,,,No Data
+20190111ORCAE,Unknown,,Handgun
+20190118ALCET,Unknown,,Handgun
+20190118MOHAS,Unknown,,Handgun
+20190118NCSHD,,,No Data
+20190119KSLAO,Unknown,,Shotgun
+20190123LASOS,,,No Data
+20190125ALDAM,Unknown,,Handgun
+20190125TNMAM,BB,,Other
+20190130GAMIL,Unknown,,Handgun
+20190131TNMAM,Pellet,,Other
+20190131TXATA,Unknown,,Handgun
+20190205MNMIM,Unknown,,Handgun
+20190208MDFRB,Unknown,,Handgun
+20190212MOCEK,Unknown,,Handgun
+20190214NMV.R,Unknown,,Handgun
+20190217COEAA,Unknown,,Handgun
+20190226ALROM,Unknown,,Handgun
+20190301KSHIM,Unknown,,Handgun
+20190313FLLAO,Unknown,,Handgun
+20190322ALBLB,Unknown,,Handgun
+20190327MSSVH,Unknown,,Handgun
+20190401ARPRP,Unknown,,Handgun
+20190403COAUA,Unknown,,Handgun
+20190403FLSAJ,,,No Data
+20190405WISTM,Unknown,,Handgun
+20190407MAHOL,,,No Data
+20190410TXROH,Unknown,,Multiple Unknown
+20190417ILWAL,Unknown,,Handgun
+20190424ARCOC,Unknown,,Handgun
+20190425GAWYS,BB,,Handgun
+20190426GACRF,Unknown,,Handgun
+20190430FLWEW,Service Weapon,,Handgun
+20190430VACDW,Unknown,,Handgun
+20190507COSTH,Unknown,,Multiple Handguns
+20190508ILSEC,Unknown,,Handgun
+20190517FLTEJ,Unknown,,Handgun
+20190517ORPAP,Unknown,,Shotgun
+20190530DCHEW,Unknown,,Handgun
+20190606ILGEC,Unknown,,Handgun
+20190610ILMEW,Unknown,,Handgun
+20190612DCHEW,Unknown,,Handgun
+20190612PAJEE,Unknown,,Handgun
+20190613NJTAW,.45 caliber,,Handgun
+20190621MICAF,Unknown,,Handgun
+20190629COJAC,Unknown,,Handgun
+20190701NYSCN,Unknown,,Handgun
+20190702AKWIA,Unknown,,Handgun
+20190711CTBUH,,,No Data
+20190719CAMOS,BB,,Other
+20190808ALBLM,Unknown,,Handgun
+20190815TNEAN,9mm,,Handgun
+20190817GALAA,Unknown,,Handgun
+20190820PASAC,Service Weapon,,Handgun
+20190823GAPEC,,,No Data
+20190823MOPAS,Unknown,,Handgun
+20190823MOROS,,,No Data
+20190824PAWIP,Unknown,,Handgun
+20190827CAHOL,,,No Data
+20190827NYROR,Unknown,,Handgun
+20190830ALLAM,Unknown,,Handgun
+20190830NCKIK,Unknown,,Handgun
+20190830OHCET,Unknown,,Handgun
+20190902MDNOB,,,No Data
+20190906ALCEC,,,No Data
+20190906PAMCJ,Unknown,,Handgun
+20190906PAWEM,,,No Data
+20190910SCSOA,Unknown,,Handgun
+20190912KSMAM,,,No Data
+20190913UTGRW,Unknown,,Handgun
+20190913VAETN,Unknown,,Handgun
+20190914TXEAF,Unknown,,Handgun
+20190916ILILK,,,No Data
+20190916VAPHH,Unknown,,Handgun
+20190920PASIP,Unknown,,Handgun
+20190927NCZEC,Unknown,,Handgun
+20191002GASOA,Unknown,,Handgun
+20191008COSHS,Unknown,,Handgun
+20191008TXWEH,,,No Data
+20191009MAGRL,BB,,Other
+20191011LARAR,Unknown,,Handgun
+20191015LAGEN,Unknown,,Handgun
+20191018GACRS,Unknown,,Handgun
+20191018OHWOT,,,No Data
+20191022CARIS,Unknown,,Handgun
+20191027MDLAL,Unknown,,Handgun
+20191029NYNEN,Unknown,,Handgun
+20191108CAEDS,,,No Data
+20191108TXROD,,,No Data
+20191111MDACB,Unknown,,Handgun
+20191113CAESL,Service Weapon,,Unknown
+20191114CASAS,.45 caliber,,Handgun
+20191115NJPLP,Unknown,,Handgun
+20191121ILRIO,Pellet,,Other
+20191124CASEU,Unknown,,Multiple Unknown
+20191125ILCAC,Unknown,,Handgun
+20191126WASAV,Unknown,,Handgun
+20191201ALMOM,Unknown,,Handgun
+20191202WIWAW,Unknown,,Handgun
+20191203WIOSO,Service Weapon,,Handgun
+20191203WITHM,BB,,Other
+20191204NMPIL,Service Weapon,,Handgun
+20191210ALDED,Unknown,,Handgun
+20191210KSJCK,,,No Data
+20191210NJSAJ,Unknown,,Multiple Unknown
+20191211INEVE,BB,,Other
+20191211KSCHT,BB,,Other
+20191213VAMAN,Unknown,,Handgun
+20191216CTCAN,Unknown,,Handgun
+20191219FLLEN,,,No Data
+20191221LAWES,Unknown,,Handgun
+20191228MOMAS,,,No Data
+20200107WASOK,BB,,Other
+20200108FLGLB,Unknown,,Handgun
+20200110MSMCJ,BB,,Other
+20200111TXELD,Unknown,,Handgun
+20200114TXBEH,Unknown,,Handgun
+20200114TXPOM,Unknown,,Handgun
+20200117MITHH,Unknown,,Handgun
+20200117SCCAS,,,No Data
+20200119TXNOF,Unknown,,Multiple Handguns
+20200121ILLIC,Unknown,,Handgun
+20200121NEPAL,BB,,Other
+20200123CAOXO,Unknown,,Handgun
+20200127WAROY,.22 caliber,,Handgun
+20200128NYMAQ,Unknown,,Handgun
+20200128TNWHM,Unknown,,Handgun
+20200128TXLUL,.357 caliber,,Handgun
+20200131CADEA,Unknown,,Handgun
+20200201TXHIH,Unknown,,Handgun
+20200203FLGEJ,Unknown,,Handgun
+20200204LABEA,5.56mm,,Rifle
+20200205NHSEC,.38 caliber,,Handgun
+20200212MOJOF,Unknown,,Handgun
+20200215DCDUW,,,Unknown
+20200221NMCEA,,,Unknown
+20200302TXNOF,Unknown,,Handgun
+20200305FLSAW,Unknown,,Handgun
+20200310PASHN,.22 caliber,,Multiple Unknown
+20200313TNPIR,Unknown,,Handgun
+20200315TXATH,Unknown,,Handgun
+20200318LABOS,Unknown,,Handgun
+20200324LAROM,Unknown,,Handgun
+20200330GANAS,Unknown,,Handgun
+20200413NEMOO,Unknown,,Handgun
+20200505CAGOV,,,No Data
+20200515NCSTC,Unknown,,Handgun
+20200519VAWEM,Unknown,,Handgun
+20200522OHMIC,,,No Data
+20200525ALORM,Unknown,,Handgun
+20200527OHLUC,Unknown,,Handgun
+20200603IAGAD,,,No Data
+20200616FLTOM,,,Multiple Unknown
+20200701ILFRP,Unknown,,Handgun
+20200704INLAM,Unknown,,Handgun
+20200714MIWID,Unknown,,Handgun
+20200721SCBRO,,,Handgun
+20200727AZCAO,,,Handgun
+20200804PAKEP,,,Handgun
+20200729ILCOC,,,Handgun
+20200817MIABG,,,Handgun
+20200825MOWEC,,,Handgun
+19850418TNSOS,.45 caliber,,Handgun
+20190522OHSAC,,,Handgun
+20200830TXLOD,,,Handgun
+20200630OHLAW,.223 caliber,AK-47 style rifle,Rifle
+20200915UTVIB,,,Shotgun
+20200915SCYOR,BB,BB gun,Other
+20200921CAPLP,,,Rifle
+20200909PAWEW,,,Handgun
+20200923FLHIJ,BB,BB gun,Other
+20200923PAWIW,,,Handgun
+20200924ILMCS,BB,,Other
+20200924CAWAC,,,Mulitiple Handguns
+20200924CAWAC,,Gold plated AK-47,Multiple Rifles
+20200925ILROR,,,Handgun
+20190127NVRER,,Stolen.,Handgun
+20150521FLDUJ,,,Handgun
+20190918MNFOC,,Illegally carried by felon,Handgun
+20130131GAPRA,,,Handgun
+20201005OKSOM,airsoft,,Other
+20201005ARKIH,,,Handgun
+20201009FLJEJ,,,Handgun
+20201012TXNOD,,,Handgun
+20161216FLSAJ,BB,,Other
+20190327FLMAJ,BB,,Other
+20190927CADER,,,Mulitiple Handguns
+20201012MNSHS,,,Shotgun
+20201014PABRB,BB,,Other
+20201014WAWAS,,,Mulitiple Handguns
+20201002PAMAE,BB,,Other
+20201020ARJAP,.22 caliber,,Handgun
+20160928TNSYP,,,Handgun
+20201113NCLIL,9mm,,Handgun
+20201116TNWIM,,,Handgun
+20201117TXWEW,,,Handgun
+20201026GARIR,.38 caliber,,Handgun
+20201117MTGRG,BB,,Other
+20201124NCHEH,,,Handgun
+20201125KSABG,,,Handgun
+20201211VATAY,,,Handgun
+20201229WAROS,,,Handgun
+20210121OHEAC,,,Handgun
+20210121OKLOG,,,Handgun
+20210127FLHOH,airsoft,Two replica airsoft handguns,Other
+20210201MIMUD,,,Handgun
+19900906GASOC,.30-06,,Rifle
+19900906GASOC,12 gauge,,Shotgun
+19900906GASOC,.25 caliber,,Handgun
+20201225FLYOP,,,Handgun
+20210210NJSCP,,,
+20210210TXFOF,,,
+20210208MISCG,,,
+20210205MDBEM,,,
+20210114MDHIW,,,
+20210110ILSOS,,,
+20210210LASTS,,,
+20210214MNROM,,,
+20210127MSHAH,,,Handgun
+20210216NCTHS,Pellet,,Other
+20210217TNKNK,,,
+20210219ILLIR,,,
+20210222CAHOV,,,
+20210224WAGAY,,,Handgun
+20210226LAGEN,,,Handgun
+20210301ARWAP,.38 caliber,,Handgun
+20210308SCEDC,,,Handgun
+20210309TNSAK,,,Handgun
+20210309OHBIC,,,
+20210311OHCIC,,,
+20210313TXLEA,null,null,Handgun
+20210318KYGRL,null,null,Handgun
+20210319WVSPM,BB,null,Other
+20210324ORFOS,null,null,Handgun
+20180803IALIO,null,null,Handgun
+20210326MOCAS,null,null,Handgun
+20210327MAPEC,null,null,null
+20210401OKCLC,BB,null,Other
+20210401ALSES,null,null,Handgun
+19790226CABAB,null,Pistol,Handgun
+20210104NYPEJ,null,null,Handgun
+20210407ILPEP,null,Not loaded,Handgun
+20210315INMEM,null,null,Mulitiple Handguns
+20210406ILBAC,BB,Assault rifle replica,Other
+20210412TNAUK,null,null,null
+20210411INBIH,9mm,null,Handgun
+20210412CASAS,null,null,Rifle
+20210412CASAS,null,null,Handgun
+20210413TNMAC,null,null,Handgun
+20170415ORMEP,null,null,Handgun
+20210418OHWED,null,null,Handgun
+20210420TXHAH,null,null,Handgun
+20210426MNPLP,null,null,Handgun
+20210427TNLAM,null,null,Handgun
+20210427DESMS,null,null,Handgun
+20210429NYURB,null,null,Mulitiple Handguns
+20210429CAVIV,null,null,Handgun
+20210430INMAI,null,null,Handgun
+20210501MNBES,null,null,Mulitiple Handguns
+20210502ILCHC,null,null,Mulitiple Handguns
+20210506IDRIR,null,null,Handgun
+19890209IDRIR,.22 caliber,null,Handgun
+20210506SCFOC,null,Military rifle taken from Army Fort,Rifle
+20210505MICRC,null,null,Handgun
+20210505SCWAW,null,null,Handgun
+20210514CASAS,null,null,Handgun
+20210511CAVEL,Pellet,null,Other
+20210517TNAUM,null,null,Handgun
+20210517MDLOC,null,"One handgun was ""ghost gun""",Mulitiple Handguns
+20210511NYPSB,null,null,Handgun
+20210525NJPAP,null,"High-powered rifle with pistol grip, scope, extended magazine, and other modifications. ",Rifle
+20210601ILLIC,null,null,Handgun
+20210606VADRA,null,null,Mulitiple Handguns
+20210607TXEAF,null,null,Handgun
+20210608KSHAK,null,null,null
+20210609TXNOH,null,null,Handgun
+20210609VAWIR,null,null,Handgun
+20210610CTHOW,.40 caliber,Glock 23 with illegal high capacity magazine,Mulitiple Handguns
+20210612MOMCF,null,null,Handgun
+20210613PAWIP,null,null,Handgun
+20210613PAPAC,null,null,null
+20210614TXEAF,null,null,Handgun
+20210614NCRJW,null,null,Handgun
+20210614NCRJW,.223 caliber,AR-15 style rifle,Rifle
+20210614NCROR,null,null,Mulitiple Handguns
+20210620CAGRM,Service Weapon,null,Handgun
+20210624ILABR,null,null,null
+20210608PAMUS,null,null,Handgun
+20210628CASLF,null,null,null
+20210704NYDRR,null,null,null
+20210708ILBEC,null,null,Handgun
+20210709KSCAW,null,null,Handgun
+20210718ARFOL,null,null,Handgun
+20210719TXCAC,BB,Hydroball gun painted black to look realistic,Other
+20210721ILTHC,null,null,null
+20210727WATYS,null,null,Handgun
+20210517TXBRE,BB,null,Other
+20210806LASTH,null,null,Handgun
+20210807ORGIP,null,null,null
+20210805GACHD,null,null,null
+20210811COMAC,null,null,null
+20210810OHEAC,null,null,Handgun
+20210812CANOS,null,null,Handgun
+20210812GALIL,Service Weapon,null,Handgun
+20210813NMWAA,null,null,Handgun
+20210811CAOAO,null,null,Handgun
+20210813GACAS,null,null,Handgun
+20210814ILMAC,null,null,null
+20180425NMHIA,null,null,Handgun
+20210814SCDAH,BB,null,Other
+20210818SCORO,null,null,Handgun
+20210818SCORO,null,null,Handgun
+20210815VAROD,null,null,Handgun
+20210820NEMIO,null,null,null
+20210820CACEF,null,null,Handgun
+20210822ILWER,null,null,Handgun
+20170813NYHUH,null,null,null
+20210901NCMTW,null,null,Handgun
+20210830NCNEW,null,null,Handgun
+20210827INHAH,null,null,Handgun
