@@ -26,3 +26,10 @@ The information is structured as a relational database with a unique incident ID
 **Victim Tab**: Incident ID number and details about the victim. Multiple rows have the same incident ID number if there were multiple victims.
 
 **Weapon Tab**: Incident ID number and details about the weapon used (including weapons that were possessed by the shooter during the incident but were not fired). Multiple rows have the same incident ID number if there were multiple weapons used.
+
+
+## Structure of this Github Directory
+
+**Data**: Contains raw CSV's Used in this analysis
+**Figures**: Contains images used to generate the by RMD script to generate the HTML file
+
